@@ -2,7 +2,21 @@
 
 Здесь вы найдете скриншоты и краткие описания моих выполненных проектов.
 
-## Статический сайт
+## Android приложение на React Native
+
+Используемые технологии:
+
+- Docker/Compose
+- MongoDB
+- React Native
+- Expo
+
+![screen_1_2](imgs/2025.07-Android-ReactNative/screen_1_2.png)
+![screen_3_4](imgs/2025.07-Android-ReactNative/screen_3_4.png)
+![screen_5_6](imgs/2025.07-Android-ReactNative/screen_5_6.png)
+![screen_7_8](imgs/2025.07-Android-ReactNative/screen_7_8.png)
+
+## Статический сайт лендинг
 
 Используемые технологии:
 
